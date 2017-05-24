@@ -1,4 +1,4 @@
-//Anger Zowi Remote control
+//Super Mario Zow Remote control
 
 #include <Arduino.h>
 #include <Servo.h>
